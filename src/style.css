@@ -12,6 +12,7 @@
 .lg-m button .ck{visibility:hidden}.lg-m button[aria-selected="true"] .ck{visibility:visible}
 
 *{box-sizing:border-box}html{scroll-behavior:smooth}
+section,.th,.st,.cta,.hero{scroll-margin-top:88px}
 body{margin:0;font-family:"DM Sans",Inter,system-ui,sans-serif;color:#162136;background:#fff;-webkit-font-smoothing:antialiased;overflow-x:hidden}
 h1,h2,p{margin:0}a{color:inherit;text-decoration:none}
 :focus-visible{outline:3px solid #0073d3;outline-offset:3px;border-radius:10px}
